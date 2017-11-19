@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 计算折扣的策略配置 -->
+<strategies>
+   <strategy type="无分类" class="com.strategy.ARateStrategy" />
+   <strategy type="服装" class="com.strategy.BRateStrategy" />
+   <strategy type="食品" class="com.strategy.CRateStrategy" />
+</strategies>

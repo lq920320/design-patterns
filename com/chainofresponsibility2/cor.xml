@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 此文档定义了责任链模式中构成链的类名 -->
+<chain>
+   <handler class="com.chainofresponsibility2.ManagerSign" />
+   <handler class="com.chainofresponsibility2.CEOSign" />
+   <handler class="com.chainofresponsibility2.CFOSign" />
+</chain>
