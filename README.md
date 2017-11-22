@@ -35,7 +35,7 @@
 
 
 **设计模式中有几个核心的模式**
-- 组合模式
-- 迭代器模式
+- 组合模式（Composite）
+- 迭代器模式（Iterator）
 - 抽象工厂模式（Abstract Factory）
-- 访问者模式（）
+- 访问者模式（Visitor）
